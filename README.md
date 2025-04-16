@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection — AIT 736 Group Project
+# 💳 Credit Card Fraud Detection 
 **Yasser Jaghoori**  
 
 ---
